@@ -1,0 +1,1105 @@
+region,drivmedel,årmånad,antal
+01 Stockholms län,bensin,202003,3208
+01 Stockholms län,bensin,202004,2405
+01 Stockholms län,bensin,202005,2055
+01 Stockholms län,bensin,202006,3275
+01 Stockholms län,bensin,202007,2638
+01 Stockholms län,bensin,202008,2872
+01 Stockholms län,bensin,202009,3103
+01 Stockholms län,bensin,202010,3082
+01 Stockholms län,bensin,202011,2809
+01 Stockholms län,bensin,202012,2464
+01 Stockholms län,bensin,202101,1796
+01 Stockholms län,bensin,202102,2361
+01 Stockholms län,bensin,202103,4681
+01 Stockholms län,bensin,202104,1998
+01 Stockholms län,bensin,202105,2748
+01 Stockholms län,bensin,202106,3194
+01 Stockholms län,bensin,202107,1607
+01 Stockholms län,bensin,202108,1566
+01 Stockholms län,bensin,202109,1511
+01 Stockholms län,bensin,202110,1338
+01 Stockholms län,bensin,202111,1316
+01 Stockholms län,bensin,202112,1430
+01 Stockholms län,bensin,202201,1226
+01 Stockholms län,bensin,202202,1261
+01 Stockholms län,diesel,202003,2725
+01 Stockholms län,diesel,202004,1827
+01 Stockholms län,diesel,202005,1651
+01 Stockholms län,diesel,202006,2631
+01 Stockholms län,diesel,202007,1774
+01 Stockholms län,diesel,202008,1729
+01 Stockholms län,diesel,202009,1898
+01 Stockholms län,diesel,202010,1714
+01 Stockholms län,diesel,202011,1637
+01 Stockholms län,diesel,202012,2136
+01 Stockholms län,diesel,202101,1772
+01 Stockholms län,diesel,202102,1604
+01 Stockholms län,diesel,202103,3886
+01 Stockholms län,diesel,202104,1160
+01 Stockholms län,diesel,202105,1573
+01 Stockholms län,diesel,202106,2151
+01 Stockholms län,diesel,202107,713
+01 Stockholms län,diesel,202108,975
+01 Stockholms län,diesel,202109,1136
+01 Stockholms län,diesel,202110,755
+01 Stockholms län,diesel,202111,789
+01 Stockholms län,diesel,202112,998
+01 Stockholms län,diesel,202201,819
+01 Stockholms län,diesel,202202,949
+03 Uppsala län,bensin,202003,281
+03 Uppsala län,bensin,202004,222
+03 Uppsala län,bensin,202005,215
+03 Uppsala län,bensin,202006,319
+03 Uppsala län,bensin,202007,249
+03 Uppsala län,bensin,202008,270
+03 Uppsala län,bensin,202009,299
+03 Uppsala län,bensin,202010,233
+03 Uppsala län,bensin,202011,229
+03 Uppsala län,bensin,202012,208
+03 Uppsala län,bensin,202101,163
+03 Uppsala län,bensin,202102,192
+03 Uppsala län,bensin,202103,440
+03 Uppsala län,bensin,202104,202
+03 Uppsala län,bensin,202105,210
+03 Uppsala län,bensin,202106,246
+03 Uppsala län,bensin,202107,170
+03 Uppsala län,bensin,202108,153
+03 Uppsala län,bensin,202109,184
+03 Uppsala län,bensin,202110,132
+03 Uppsala län,bensin,202111,172
+03 Uppsala län,bensin,202112,171
+03 Uppsala län,bensin,202201,173
+03 Uppsala län,bensin,202202,193
+03 Uppsala län,diesel,202003,114
+03 Uppsala län,diesel,202004,92
+03 Uppsala län,diesel,202005,99
+03 Uppsala län,diesel,202006,146
+03 Uppsala län,diesel,202007,161
+03 Uppsala län,diesel,202008,135
+03 Uppsala län,diesel,202009,116
+03 Uppsala län,diesel,202010,158
+03 Uppsala län,diesel,202011,80
+03 Uppsala län,diesel,202012,147
+03 Uppsala län,diesel,202101,90
+03 Uppsala län,diesel,202102,75
+03 Uppsala län,diesel,202103,276
+03 Uppsala län,diesel,202104,75
+03 Uppsala län,diesel,202105,82
+03 Uppsala län,diesel,202106,147
+03 Uppsala län,diesel,202107,70
+03 Uppsala län,diesel,202108,61
+03 Uppsala län,diesel,202109,69
+03 Uppsala län,diesel,202110,53
+03 Uppsala län,diesel,202111,67
+03 Uppsala län,diesel,202112,85
+03 Uppsala län,diesel,202201,64
+03 Uppsala län,diesel,202202,66
+04 Södermanlands län,bensin,202003,325
+04 Södermanlands län,bensin,202004,209
+04 Södermanlands län,bensin,202005,179
+04 Södermanlands län,bensin,202006,242
+04 Södermanlands län,bensin,202007,225
+04 Södermanlands län,bensin,202008,285
+04 Södermanlands län,bensin,202009,236
+04 Södermanlands län,bensin,202010,231
+04 Södermanlands län,bensin,202011,190
+04 Södermanlands län,bensin,202012,270
+04 Södermanlands län,bensin,202101,173
+04 Södermanlands län,bensin,202102,187
+04 Södermanlands län,bensin,202103,420
+04 Södermanlands län,bensin,202104,199
+04 Södermanlands län,bensin,202105,190
+04 Södermanlands län,bensin,202106,280
+04 Södermanlands län,bensin,202107,172
+04 Södermanlands län,bensin,202108,174
+04 Södermanlands län,bensin,202109,204
+04 Södermanlands län,bensin,202110,164
+04 Södermanlands län,bensin,202111,157
+04 Södermanlands län,bensin,202112,176
+04 Södermanlands län,bensin,202201,125
+04 Södermanlands län,bensin,202202,138
+04 Södermanlands län,diesel,202003,119
+04 Södermanlands län,diesel,202004,91
+04 Södermanlands län,diesel,202005,50
+04 Södermanlands län,diesel,202006,107
+04 Södermanlands län,diesel,202007,130
+04 Södermanlands län,diesel,202008,106
+04 Södermanlands län,diesel,202009,100
+04 Södermanlands län,diesel,202010,90
+04 Södermanlands län,diesel,202011,111
+04 Södermanlands län,diesel,202012,145
+04 Södermanlands län,diesel,202101,64
+04 Södermanlands län,diesel,202102,91
+04 Södermanlands län,diesel,202103,242
+04 Södermanlands län,diesel,202104,58
+04 Södermanlands län,diesel,202105,83
+04 Södermanlands län,diesel,202106,109
+04 Södermanlands län,diesel,202107,69
+04 Södermanlands län,diesel,202108,63
+04 Södermanlands län,diesel,202109,66
+04 Södermanlands län,diesel,202110,72
+04 Södermanlands län,diesel,202111,73
+04 Södermanlands län,diesel,202112,56
+04 Södermanlands län,diesel,202201,65
+04 Södermanlands län,diesel,202202,65
+05 Östergötlands län,bensin,202003,393
+05 Östergötlands län,bensin,202004,287
+05 Östergötlands län,bensin,202005,296
+05 Östergötlands län,bensin,202006,400
+05 Östergötlands län,bensin,202007,396
+05 Östergötlands län,bensin,202008,446
+05 Östergötlands län,bensin,202009,458
+05 Östergötlands län,bensin,202010,394
+05 Östergötlands län,bensin,202011,347
+05 Östergötlands län,bensin,202012,363
+05 Östergötlands län,bensin,202101,312
+05 Östergötlands län,bensin,202102,305
+05 Östergötlands län,bensin,202103,668
+05 Östergötlands län,bensin,202104,305
+05 Östergötlands län,bensin,202105,300
+05 Östergötlands län,bensin,202106,399
+05 Östergötlands län,bensin,202107,286
+05 Östergötlands län,bensin,202108,238
+05 Östergötlands län,bensin,202109,277
+05 Östergötlands län,bensin,202110,249
+05 Östergötlands län,bensin,202111,200
+05 Östergötlands län,bensin,202112,215
+05 Östergötlands län,bensin,202201,223
+05 Östergötlands län,bensin,202202,196
+05 Östergötlands län,diesel,202003,247
+05 Östergötlands län,diesel,202004,192
+05 Östergötlands län,diesel,202005,155
+05 Östergötlands län,diesel,202006,247
+05 Östergötlands län,diesel,202007,186
+05 Östergötlands län,diesel,202008,188
+05 Östergötlands län,diesel,202009,177
+05 Östergötlands län,diesel,202010,171
+05 Östergötlands län,diesel,202011,128
+05 Östergötlands län,diesel,202012,233
+05 Östergötlands län,diesel,202101,156
+05 Östergötlands län,diesel,202102,143
+05 Östergötlands län,diesel,202103,364
+05 Östergötlands län,diesel,202104,127
+05 Östergötlands län,diesel,202105,124
+05 Östergötlands län,diesel,202106,190
+05 Östergötlands län,diesel,202107,126
+05 Östergötlands län,diesel,202108,110
+05 Östergötlands län,diesel,202109,86
+05 Östergötlands län,diesel,202110,113
+05 Östergötlands län,diesel,202111,112
+05 Östergötlands län,diesel,202112,98
+05 Östergötlands län,diesel,202201,90
+05 Östergötlands län,diesel,202202,95
+06 Jönköpings län,bensin,202003,450
+06 Jönköpings län,bensin,202004,360
+06 Jönköpings län,bensin,202005,330
+06 Jönköpings län,bensin,202006,474
+06 Jönköpings län,bensin,202007,411
+06 Jönköpings län,bensin,202008,420
+06 Jönköpings län,bensin,202009,387
+06 Jönköpings län,bensin,202010,437
+06 Jönköpings län,bensin,202011,451
+06 Jönköpings län,bensin,202012,393
+06 Jönköpings län,bensin,202101,359
+06 Jönköpings län,bensin,202102,331
+06 Jönköpings län,bensin,202103,673
+06 Jönköpings län,bensin,202104,300
+06 Jönköpings län,bensin,202105,361
+06 Jönköpings län,bensin,202106,388
+06 Jönköpings län,bensin,202107,262
+06 Jönköpings län,bensin,202108,281
+06 Jönköpings län,bensin,202109,238
+06 Jönköpings län,bensin,202110,264
+06 Jönköpings län,bensin,202111,252
+06 Jönköpings län,bensin,202112,255
+06 Jönköpings län,bensin,202201,200
+06 Jönköpings län,bensin,202202,155
+06 Jönköpings län,diesel,202003,257
+06 Jönköpings län,diesel,202004,196
+06 Jönköpings län,diesel,202005,155
+06 Jönköpings län,diesel,202006,260
+06 Jönköpings län,diesel,202007,174
+06 Jönköpings län,diesel,202008,251
+06 Jönköpings län,diesel,202009,173
+06 Jönköpings län,diesel,202010,165
+06 Jönköpings län,diesel,202011,163
+06 Jönköpings län,diesel,202012,228
+06 Jönköpings län,diesel,202101,205
+06 Jönköpings län,diesel,202102,185
+06 Jönköpings län,diesel,202103,395
+06 Jönköpings län,diesel,202104,121
+06 Jönköpings län,diesel,202105,169
+06 Jönköpings län,diesel,202106,254
+06 Jönköpings län,diesel,202107,157
+06 Jönköpings län,diesel,202108,102
+06 Jönköpings län,diesel,202109,96
+06 Jönköpings län,diesel,202110,135
+06 Jönköpings län,diesel,202111,111
+06 Jönköpings län,diesel,202112,112
+06 Jönköpings län,diesel,202201,81
+06 Jönköpings län,diesel,202202,98
+07 Kronobergs län,bensin,202003,197
+07 Kronobergs län,bensin,202004,157
+07 Kronobergs län,bensin,202005,141
+07 Kronobergs län,bensin,202006,165
+07 Kronobergs län,bensin,202007,178
+07 Kronobergs län,bensin,202008,171
+07 Kronobergs län,bensin,202009,224
+07 Kronobergs län,bensin,202010,199
+07 Kronobergs län,bensin,202011,179
+07 Kronobergs län,bensin,202012,192
+07 Kronobergs län,bensin,202101,136
+07 Kronobergs län,bensin,202102,158
+07 Kronobergs län,bensin,202103,279
+07 Kronobergs län,bensin,202104,161
+07 Kronobergs län,bensin,202105,140
+07 Kronobergs län,bensin,202106,152
+07 Kronobergs län,bensin,202107,134
+07 Kronobergs län,bensin,202108,116
+07 Kronobergs län,bensin,202109,130
+07 Kronobergs län,bensin,202110,110
+07 Kronobergs län,bensin,202111,107
+07 Kronobergs län,bensin,202112,142
+07 Kronobergs län,bensin,202201,89
+07 Kronobergs län,bensin,202202,89
+07 Kronobergs län,diesel,202003,88
+07 Kronobergs län,diesel,202004,80
+07 Kronobergs län,diesel,202005,49
+07 Kronobergs län,diesel,202006,89
+07 Kronobergs län,diesel,202007,90
+07 Kronobergs län,diesel,202008,64
+07 Kronobergs län,diesel,202009,89
+07 Kronobergs län,diesel,202010,86
+07 Kronobergs län,diesel,202011,85
+07 Kronobergs län,diesel,202012,97
+07 Kronobergs län,diesel,202101,64
+07 Kronobergs län,diesel,202102,60
+07 Kronobergs län,diesel,202103,140
+07 Kronobergs län,diesel,202104,49
+07 Kronobergs län,diesel,202105,55
+07 Kronobergs län,diesel,202106,109
+07 Kronobergs län,diesel,202107,40
+07 Kronobergs län,diesel,202108,30
+07 Kronobergs län,diesel,202109,45
+07 Kronobergs län,diesel,202110,40
+07 Kronobergs län,diesel,202111,42
+07 Kronobergs län,diesel,202112,58
+07 Kronobergs län,diesel,202201,42
+07 Kronobergs län,diesel,202202,52
+08 Kalmar län,bensin,202003,281
+08 Kalmar län,bensin,202004,206
+08 Kalmar län,bensin,202005,129
+08 Kalmar län,bensin,202006,254
+08 Kalmar län,bensin,202007,179
+08 Kalmar län,bensin,202008,199
+08 Kalmar län,bensin,202009,241
+08 Kalmar län,bensin,202010,198
+08 Kalmar län,bensin,202011,197
+08 Kalmar län,bensin,202012,220
+08 Kalmar län,bensin,202101,159
+08 Kalmar län,bensin,202102,177
+08 Kalmar län,bensin,202103,414
+08 Kalmar län,bensin,202104,143
+08 Kalmar län,bensin,202105,187
+08 Kalmar län,bensin,202106,242
+08 Kalmar län,bensin,202107,147
+08 Kalmar län,bensin,202108,146
+08 Kalmar län,bensin,202109,144
+08 Kalmar län,bensin,202110,117
+08 Kalmar län,bensin,202111,148
+08 Kalmar län,bensin,202112,119
+08 Kalmar län,bensin,202201,109
+08 Kalmar län,bensin,202202,152
+08 Kalmar län,diesel,202003,142
+08 Kalmar län,diesel,202004,131
+08 Kalmar län,diesel,202005,55
+08 Kalmar län,diesel,202006,162
+08 Kalmar län,diesel,202007,109
+08 Kalmar län,diesel,202008,151
+08 Kalmar län,diesel,202009,118
+08 Kalmar län,diesel,202010,92
+08 Kalmar län,diesel,202011,98
+08 Kalmar län,diesel,202012,191
+08 Kalmar län,diesel,202101,84
+08 Kalmar län,diesel,202102,99
+08 Kalmar län,diesel,202103,234
+08 Kalmar län,diesel,202104,52
+08 Kalmar län,diesel,202105,97
+08 Kalmar län,diesel,202106,112
+08 Kalmar län,diesel,202107,60
+08 Kalmar län,diesel,202108,70
+08 Kalmar län,diesel,202109,55
+08 Kalmar län,diesel,202110,64
+08 Kalmar län,diesel,202111,60
+08 Kalmar län,diesel,202112,89
+08 Kalmar län,diesel,202201,64
+08 Kalmar län,diesel,202202,78
+09 Gotlands län,bensin,202003,34
+09 Gotlands län,bensin,202004,27
+09 Gotlands län,bensin,202005,21
+09 Gotlands län,bensin,202006,43
+09 Gotlands län,bensin,202007,40
+09 Gotlands län,bensin,202008,47
+09 Gotlands län,bensin,202009,56
+09 Gotlands län,bensin,202010,53
+09 Gotlands län,bensin,202011,34
+09 Gotlands län,bensin,202012,38
+09 Gotlands län,bensin,202101,26
+09 Gotlands län,bensin,202102,29
+09 Gotlands län,bensin,202103,43
+09 Gotlands län,bensin,202104,32
+09 Gotlands län,bensin,202105,39
+09 Gotlands län,bensin,202106,51
+09 Gotlands län,bensin,202107,41
+09 Gotlands län,bensin,202108,29
+09 Gotlands län,bensin,202109,32
+09 Gotlands län,bensin,202110,17
+09 Gotlands län,bensin,202111,16
+09 Gotlands län,bensin,202112,26
+09 Gotlands län,bensin,202201,19
+09 Gotlands län,bensin,202202,24
+09 Gotlands län,diesel,202003,15
+09 Gotlands län,diesel,202004,18
+09 Gotlands län,diesel,202005,6
+09 Gotlands län,diesel,202006,12
+09 Gotlands län,diesel,202007,11
+09 Gotlands län,diesel,202008,5
+09 Gotlands län,diesel,202009,14
+09 Gotlands län,diesel,202010,10
+09 Gotlands län,diesel,202011,9
+09 Gotlands län,diesel,202012,12
+09 Gotlands län,diesel,202101,8
+09 Gotlands län,diesel,202102,24
+09 Gotlands län,diesel,202103,18
+09 Gotlands län,diesel,202104,19
+09 Gotlands län,diesel,202105,14
+09 Gotlands län,diesel,202106,16
+09 Gotlands län,diesel,202107,11
+09 Gotlands län,diesel,202108,12
+09 Gotlands län,diesel,202109,10
+09 Gotlands län,diesel,202110,10
+09 Gotlands län,diesel,202111,8
+09 Gotlands län,diesel,202112,7
+09 Gotlands län,diesel,202201,5
+09 Gotlands län,diesel,202202,5
+10 Blekinge län,bensin,202003,168
+10 Blekinge län,bensin,202004,119
+10 Blekinge län,bensin,202005,84
+10 Blekinge län,bensin,202006,145
+10 Blekinge län,bensin,202007,122
+10 Blekinge län,bensin,202008,148
+10 Blekinge län,bensin,202009,127
+10 Blekinge län,bensin,202010,164
+10 Blekinge län,bensin,202011,116
+10 Blekinge län,bensin,202012,159
+10 Blekinge län,bensin,202101,121
+10 Blekinge län,bensin,202102,132
+10 Blekinge län,bensin,202103,238
+10 Blekinge län,bensin,202104,116
+10 Blekinge län,bensin,202105,130
+10 Blekinge län,bensin,202106,138
+10 Blekinge län,bensin,202107,99
+10 Blekinge län,bensin,202108,101
+10 Blekinge län,bensin,202109,109
+10 Blekinge län,bensin,202110,88
+10 Blekinge län,bensin,202111,66
+10 Blekinge län,bensin,202112,86
+10 Blekinge län,bensin,202201,91
+10 Blekinge län,bensin,202202,82
+10 Blekinge län,diesel,202003,74
+10 Blekinge län,diesel,202004,40
+10 Blekinge län,diesel,202005,25
+10 Blekinge län,diesel,202006,47
+10 Blekinge län,diesel,202007,44
+10 Blekinge län,diesel,202008,58
+10 Blekinge län,diesel,202009,63
+10 Blekinge län,diesel,202010,48
+10 Blekinge län,diesel,202011,47
+10 Blekinge län,diesel,202012,88
+10 Blekinge län,diesel,202101,39
+10 Blekinge län,diesel,202102,57
+10 Blekinge län,diesel,202103,104
+10 Blekinge län,diesel,202104,31
+10 Blekinge län,diesel,202105,42
+10 Blekinge län,diesel,202106,48
+10 Blekinge län,diesel,202107,45
+10 Blekinge län,diesel,202108,25
+10 Blekinge län,diesel,202109,39
+10 Blekinge län,diesel,202110,29
+10 Blekinge län,diesel,202111,32
+10 Blekinge län,diesel,202112,40
+10 Blekinge län,diesel,202201,18
+10 Blekinge län,diesel,202202,35
+12 Skåne län,bensin,202003,1881
+12 Skåne län,bensin,202004,1592
+12 Skåne län,bensin,202005,1404
+12 Skåne län,bensin,202006,1804
+12 Skåne län,bensin,202007,1673
+12 Skåne län,bensin,202008,1600
+12 Skåne län,bensin,202009,1654
+12 Skåne län,bensin,202010,1536
+12 Skåne län,bensin,202011,1514
+12 Skåne län,bensin,202012,1329
+12 Skåne län,bensin,202101,1514
+12 Skåne län,bensin,202102,1524
+12 Skåne län,bensin,202103,2719
+12 Skåne län,bensin,202104,1488
+12 Skåne län,bensin,202105,1483
+12 Skåne län,bensin,202106,1569
+12 Skåne län,bensin,202107,1187
+12 Skåne län,bensin,202108,1022
+12 Skåne län,bensin,202109,952
+12 Skåne län,bensin,202110,1078
+12 Skåne län,bensin,202111,966
+12 Skåne län,bensin,202112,922
+12 Skåne län,bensin,202201,790
+12 Skåne län,bensin,202202,852
+12 Skåne län,diesel,202003,1287
+12 Skåne län,diesel,202004,861
+12 Skåne län,diesel,202005,759
+12 Skåne län,diesel,202006,1111
+12 Skåne län,diesel,202007,989
+12 Skåne län,diesel,202008,841
+12 Skåne län,diesel,202009,892
+12 Skåne län,diesel,202010,1005
+12 Skåne län,diesel,202011,940
+12 Skåne län,diesel,202012,898
+12 Skåne län,diesel,202101,968
+12 Skåne län,diesel,202102,914
+12 Skåne län,diesel,202103,1393
+12 Skåne län,diesel,202104,927
+12 Skåne län,diesel,202105,784
+12 Skåne län,diesel,202106,844
+12 Skåne län,diesel,202107,565
+12 Skåne län,diesel,202108,434
+12 Skåne län,diesel,202109,388
+12 Skåne län,diesel,202110,460
+12 Skåne län,diesel,202111,554
+12 Skåne län,diesel,202112,493
+12 Skåne län,diesel,202201,526
+12 Skåne län,diesel,202202,523
+13 Hallands län,bensin,202003,436
+13 Hallands län,bensin,202004,332
+13 Hallands län,bensin,202005,274
+13 Hallands län,bensin,202006,417
+13 Hallands län,bensin,202007,389
+13 Hallands län,bensin,202008,450
+13 Hallands län,bensin,202009,411
+13 Hallands län,bensin,202010,436
+13 Hallands län,bensin,202011,355
+13 Hallands län,bensin,202012,354
+13 Hallands län,bensin,202101,346
+13 Hallands län,bensin,202102,338
+13 Hallands län,bensin,202103,688
+13 Hallands län,bensin,202104,280
+13 Hallands län,bensin,202105,352
+13 Hallands län,bensin,202106,417
+13 Hallands län,bensin,202107,267
+13 Hallands län,bensin,202108,277
+13 Hallands län,bensin,202109,250
+13 Hallands län,bensin,202110,249
+13 Hallands län,bensin,202111,259
+13 Hallands län,bensin,202112,247
+13 Hallands län,bensin,202201,210
+13 Hallands län,bensin,202202,215
+13 Hallands län,diesel,202003,138
+13 Hallands län,diesel,202004,105
+13 Hallands län,diesel,202005,93
+13 Hallands län,diesel,202006,168
+13 Hallands län,diesel,202007,144
+13 Hallands län,diesel,202008,127
+13 Hallands län,diesel,202009,144
+13 Hallands län,diesel,202010,136
+13 Hallands län,diesel,202011,135
+13 Hallands län,diesel,202012,155
+13 Hallands län,diesel,202101,113
+13 Hallands län,diesel,202102,116
+13 Hallands län,diesel,202103,219
+13 Hallands län,diesel,202104,88
+13 Hallands län,diesel,202105,127
+13 Hallands län,diesel,202106,161
+13 Hallands län,diesel,202107,90
+13 Hallands län,diesel,202108,76
+13 Hallands län,diesel,202109,75
+13 Hallands län,diesel,202110,66
+13 Hallands län,diesel,202111,78
+13 Hallands län,diesel,202112,100
+13 Hallands län,diesel,202201,87
+13 Hallands län,diesel,202202,77
+14 Västra Götalands län,bensin,202003,2163
+14 Västra Götalands län,bensin,202004,1539
+14 Västra Götalands län,bensin,202005,1364
+14 Västra Götalands län,bensin,202006,2108
+14 Västra Götalands län,bensin,202007,1753
+14 Västra Götalands län,bensin,202008,1955
+14 Västra Götalands län,bensin,202009,1976
+14 Västra Götalands län,bensin,202010,1981
+14 Västra Götalands län,bensin,202011,1732
+14 Västra Götalands län,bensin,202012,1656
+14 Västra Götalands län,bensin,202101,1596
+14 Västra Götalands län,bensin,202102,1761
+14 Västra Götalands län,bensin,202103,3082
+14 Västra Götalands län,bensin,202104,1495
+14 Västra Götalands län,bensin,202105,1582
+14 Västra Götalands län,bensin,202106,1854
+14 Västra Götalands län,bensin,202107,1195
+14 Västra Götalands län,bensin,202108,1203
+14 Västra Götalands län,bensin,202109,1353
+14 Västra Götalands län,bensin,202110,1342
+14 Västra Götalands län,bensin,202111,1138
+14 Västra Götalands län,bensin,202112,1222
+14 Västra Götalands län,bensin,202201,987
+14 Västra Götalands län,bensin,202202,1034
+14 Västra Götalands län,diesel,202003,854
+14 Västra Götalands län,diesel,202004,625
+14 Västra Götalands län,diesel,202005,551
+14 Västra Götalands län,diesel,202006,910
+14 Västra Götalands län,diesel,202007,722
+14 Västra Götalands län,diesel,202008,756
+14 Västra Götalands län,diesel,202009,704
+14 Västra Götalands län,diesel,202010,597
+14 Västra Götalands län,diesel,202011,572
+14 Västra Götalands län,diesel,202012,820
+14 Västra Götalands län,diesel,202101,543
+14 Västra Götalands län,diesel,202102,579
+14 Västra Götalands län,diesel,202103,1575
+14 Västra Götalands län,diesel,202104,439
+14 Västra Götalands län,diesel,202105,511
+14 Västra Götalands län,diesel,202106,742
+14 Västra Götalands län,diesel,202107,452
+14 Västra Götalands län,diesel,202108,374
+14 Västra Götalands län,diesel,202109,399
+14 Västra Götalands län,diesel,202110,391
+14 Västra Götalands län,diesel,202111,433
+14 Västra Götalands län,diesel,202112,463
+14 Västra Götalands län,diesel,202201,337
+14 Västra Götalands län,diesel,202202,418
+15 f.d. Älvsborgs län,bensin,202003,0
+15 f.d. Älvsborgs län,bensin,202004,0
+15 f.d. Älvsborgs län,bensin,202005,0
+15 f.d. Älvsborgs län,bensin,202006,0
+15 f.d. Älvsborgs län,bensin,202007,0
+15 f.d. Älvsborgs län,bensin,202008,0
+15 f.d. Älvsborgs län,bensin,202009,0
+15 f.d. Älvsborgs län,bensin,202010,0
+15 f.d. Älvsborgs län,bensin,202011,0
+15 f.d. Älvsborgs län,bensin,202012,0
+15 f.d. Älvsborgs län,bensin,202101,0
+15 f.d. Älvsborgs län,bensin,202102,0
+15 f.d. Älvsborgs län,bensin,202103,0
+15 f.d. Älvsborgs län,bensin,202104,0
+15 f.d. Älvsborgs län,bensin,202105,0
+15 f.d. Älvsborgs län,bensin,202106,0
+15 f.d. Älvsborgs län,bensin,202107,0
+15 f.d. Älvsborgs län,bensin,202108,0
+15 f.d. Älvsborgs län,bensin,202109,0
+15 f.d. Älvsborgs län,bensin,202110,0
+15 f.d. Älvsborgs län,bensin,202111,0
+15 f.d. Älvsborgs län,bensin,202112,0
+15 f.d. Älvsborgs län,bensin,202201,0
+15 f.d. Älvsborgs län,bensin,202202,0
+15 f.d. Älvsborgs län,diesel,202003,0
+15 f.d. Älvsborgs län,diesel,202004,0
+15 f.d. Älvsborgs län,diesel,202005,0
+15 f.d. Älvsborgs län,diesel,202006,0
+15 f.d. Älvsborgs län,diesel,202007,0
+15 f.d. Älvsborgs län,diesel,202008,0
+15 f.d. Älvsborgs län,diesel,202009,0
+15 f.d. Älvsborgs län,diesel,202010,0
+15 f.d. Älvsborgs län,diesel,202011,0
+15 f.d. Älvsborgs län,diesel,202012,0
+15 f.d. Älvsborgs län,diesel,202101,0
+15 f.d. Älvsborgs län,diesel,202102,0
+15 f.d. Älvsborgs län,diesel,202103,0
+15 f.d. Älvsborgs län,diesel,202104,0
+15 f.d. Älvsborgs län,diesel,202105,0
+15 f.d. Älvsborgs län,diesel,202106,0
+15 f.d. Älvsborgs län,diesel,202107,0
+15 f.d. Älvsborgs län,diesel,202108,0
+15 f.d. Älvsborgs län,diesel,202109,0
+15 f.d. Älvsborgs län,diesel,202110,0
+15 f.d. Älvsborgs län,diesel,202111,0
+15 f.d. Älvsborgs län,diesel,202112,0
+15 f.d. Älvsborgs län,diesel,202201,0
+15 f.d. Älvsborgs län,diesel,202202,0
+16 f.d. Skaraborgs län,bensin,202003,0
+16 f.d. Skaraborgs län,bensin,202004,0
+16 f.d. Skaraborgs län,bensin,202005,0
+16 f.d. Skaraborgs län,bensin,202006,0
+16 f.d. Skaraborgs län,bensin,202007,0
+16 f.d. Skaraborgs län,bensin,202008,0
+16 f.d. Skaraborgs län,bensin,202009,0
+16 f.d. Skaraborgs län,bensin,202010,0
+16 f.d. Skaraborgs län,bensin,202011,0
+16 f.d. Skaraborgs län,bensin,202012,0
+16 f.d. Skaraborgs län,bensin,202101,0
+16 f.d. Skaraborgs län,bensin,202102,0
+16 f.d. Skaraborgs län,bensin,202103,0
+16 f.d. Skaraborgs län,bensin,202104,0
+16 f.d. Skaraborgs län,bensin,202105,0
+16 f.d. Skaraborgs län,bensin,202106,0
+16 f.d. Skaraborgs län,bensin,202107,0
+16 f.d. Skaraborgs län,bensin,202108,0
+16 f.d. Skaraborgs län,bensin,202109,0
+16 f.d. Skaraborgs län,bensin,202110,0
+16 f.d. Skaraborgs län,bensin,202111,0
+16 f.d. Skaraborgs län,bensin,202112,0
+16 f.d. Skaraborgs län,bensin,202201,0
+16 f.d. Skaraborgs län,bensin,202202,0
+16 f.d. Skaraborgs län,diesel,202003,0
+16 f.d. Skaraborgs län,diesel,202004,0
+16 f.d. Skaraborgs län,diesel,202005,0
+16 f.d. Skaraborgs län,diesel,202006,0
+16 f.d. Skaraborgs län,diesel,202007,0
+16 f.d. Skaraborgs län,diesel,202008,0
+16 f.d. Skaraborgs län,diesel,202009,0
+16 f.d. Skaraborgs län,diesel,202010,0
+16 f.d. Skaraborgs län,diesel,202011,0
+16 f.d. Skaraborgs län,diesel,202012,0
+16 f.d. Skaraborgs län,diesel,202101,0
+16 f.d. Skaraborgs län,diesel,202102,0
+16 f.d. Skaraborgs län,diesel,202103,0
+16 f.d. Skaraborgs län,diesel,202104,0
+16 f.d. Skaraborgs län,diesel,202105,0
+16 f.d. Skaraborgs län,diesel,202106,0
+16 f.d. Skaraborgs län,diesel,202107,0
+16 f.d. Skaraborgs län,diesel,202108,0
+16 f.d. Skaraborgs län,diesel,202109,0
+16 f.d. Skaraborgs län,diesel,202110,0
+16 f.d. Skaraborgs län,diesel,202111,0
+16 f.d. Skaraborgs län,diesel,202112,0
+16 f.d. Skaraborgs län,diesel,202201,0
+16 f.d. Skaraborgs län,diesel,202202,0
+17 Värmlands län,bensin,202003,267
+17 Värmlands län,bensin,202004,243
+17 Värmlands län,bensin,202005,211
+17 Värmlands län,bensin,202006,326
+17 Värmlands län,bensin,202007,232
+17 Värmlands län,bensin,202008,303
+17 Värmlands län,bensin,202009,292
+17 Värmlands län,bensin,202010,256
+17 Värmlands län,bensin,202011,205
+17 Värmlands län,bensin,202012,182
+17 Värmlands län,bensin,202101,209
+17 Värmlands län,bensin,202102,253
+17 Värmlands län,bensin,202103,384
+17 Värmlands län,bensin,202104,223
+17 Värmlands län,bensin,202105,200
+17 Värmlands län,bensin,202106,239
+17 Värmlands län,bensin,202107,177
+17 Värmlands län,bensin,202108,198
+17 Värmlands län,bensin,202109,159
+17 Värmlands län,bensin,202110,155
+17 Värmlands län,bensin,202111,173
+17 Värmlands län,bensin,202112,147
+17 Värmlands län,bensin,202201,174
+17 Värmlands län,bensin,202202,279
+17 Värmlands län,diesel,202003,187
+17 Värmlands län,diesel,202004,164
+17 Värmlands län,diesel,202005,124
+17 Värmlands län,diesel,202006,139
+17 Värmlands län,diesel,202007,179
+17 Värmlands län,diesel,202008,141
+17 Värmlands län,diesel,202009,187
+17 Värmlands län,diesel,202010,148
+17 Värmlands län,diesel,202011,156
+17 Värmlands län,diesel,202012,259
+17 Värmlands län,diesel,202101,120
+17 Värmlands län,diesel,202102,137
+17 Värmlands län,diesel,202103,291
+17 Värmlands län,diesel,202104,97
+17 Värmlands län,diesel,202105,108
+17 Värmlands län,diesel,202106,148
+17 Värmlands län,diesel,202107,87
+17 Värmlands län,diesel,202108,90
+17 Värmlands län,diesel,202109,93
+17 Värmlands län,diesel,202110,71
+17 Värmlands län,diesel,202111,96
+17 Värmlands län,diesel,202112,139
+17 Värmlands län,diesel,202201,102
+17 Värmlands län,diesel,202202,137
+18 Örebro län,bensin,202003,272
+18 Örebro län,bensin,202004,201
+18 Örebro län,bensin,202005,157
+18 Örebro län,bensin,202006,233
+18 Örebro län,bensin,202007,242
+18 Örebro län,bensin,202008,217
+18 Örebro län,bensin,202009,217
+18 Örebro län,bensin,202010,234
+18 Örebro län,bensin,202011,173
+18 Örebro län,bensin,202012,213
+18 Örebro län,bensin,202101,148
+18 Örebro län,bensin,202102,207
+18 Örebro län,bensin,202103,431
+18 Örebro län,bensin,202104,126
+18 Örebro län,bensin,202105,204
+18 Örebro län,bensin,202106,217
+18 Örebro län,bensin,202107,164
+18 Örebro län,bensin,202108,156
+18 Örebro län,bensin,202109,157
+18 Örebro län,bensin,202110,150
+18 Örebro län,bensin,202111,129
+18 Örebro län,bensin,202112,122
+18 Örebro län,bensin,202201,135
+18 Örebro län,bensin,202202,156
+18 Örebro län,diesel,202003,120
+18 Örebro län,diesel,202004,94
+18 Örebro län,diesel,202005,91
+18 Örebro län,diesel,202006,185
+18 Örebro län,diesel,202007,123
+18 Örebro län,diesel,202008,120
+18 Örebro län,diesel,202009,129
+18 Örebro län,diesel,202010,120
+18 Örebro län,diesel,202011,97
+18 Örebro län,diesel,202012,140
+18 Örebro län,diesel,202101,102
+18 Örebro län,diesel,202102,97
+18 Örebro län,diesel,202103,247
+18 Örebro län,diesel,202104,78
+18 Örebro län,diesel,202105,89
+18 Örebro län,diesel,202106,99
+18 Örebro län,diesel,202107,98
+18 Örebro län,diesel,202108,72
+18 Örebro län,diesel,202109,58
+18 Örebro län,diesel,202110,76
+18 Örebro län,diesel,202111,87
+18 Örebro län,diesel,202112,62
+18 Örebro län,diesel,202201,64
+18 Örebro län,diesel,202202,55
+19 Västmanlands län,bensin,202003,283
+19 Västmanlands län,bensin,202004,204
+19 Västmanlands län,bensin,202005,161
+19 Västmanlands län,bensin,202006,241
+19 Västmanlands län,bensin,202007,197
+19 Västmanlands län,bensin,202008,217
+19 Västmanlands län,bensin,202009,244
+19 Västmanlands län,bensin,202010,219
+19 Västmanlands län,bensin,202011,186
+19 Västmanlands län,bensin,202012,187
+19 Västmanlands län,bensin,202101,156
+19 Västmanlands län,bensin,202102,186
+19 Västmanlands län,bensin,202103,393
+19 Västmanlands län,bensin,202104,152
+19 Västmanlands län,bensin,202105,197
+19 Västmanlands län,bensin,202106,221
+19 Västmanlands län,bensin,202107,154
+19 Västmanlands län,bensin,202108,131
+19 Västmanlands län,bensin,202109,141
+19 Västmanlands län,bensin,202110,122
+19 Västmanlands län,bensin,202111,149
+19 Västmanlands län,bensin,202112,141
+19 Västmanlands län,bensin,202201,149
+19 Västmanlands län,bensin,202202,131
+19 Västmanlands län,diesel,202003,136
+19 Västmanlands län,diesel,202004,83
+19 Västmanlands län,diesel,202005,79
+19 Västmanlands län,diesel,202006,113
+19 Västmanlands län,diesel,202007,84
+19 Västmanlands län,diesel,202008,97
+19 Västmanlands län,diesel,202009,88
+19 Västmanlands län,diesel,202010,100
+19 Västmanlands län,diesel,202011,82
+19 Västmanlands län,diesel,202012,146
+19 Västmanlands län,diesel,202101,79
+19 Västmanlands län,diesel,202102,75
+19 Västmanlands län,diesel,202103,208
+19 Västmanlands län,diesel,202104,52
+19 Västmanlands län,diesel,202105,79
+19 Västmanlands län,diesel,202106,139
+19 Västmanlands län,diesel,202107,54
+19 Västmanlands län,diesel,202108,58
+19 Västmanlands län,diesel,202109,63
+19 Västmanlands län,diesel,202110,63
+19 Västmanlands län,diesel,202111,74
+19 Västmanlands län,diesel,202112,71
+19 Västmanlands län,diesel,202201,54
+19 Västmanlands län,diesel,202202,54
+20 Dalarnas län,bensin,202003,190
+20 Dalarnas län,bensin,202004,122
+20 Dalarnas län,bensin,202005,123
+20 Dalarnas län,bensin,202006,208
+20 Dalarnas län,bensin,202007,179
+20 Dalarnas län,bensin,202008,182
+20 Dalarnas län,bensin,202009,210
+20 Dalarnas län,bensin,202010,186
+20 Dalarnas län,bensin,202011,142
+20 Dalarnas län,bensin,202012,148
+20 Dalarnas län,bensin,202101,126
+20 Dalarnas län,bensin,202102,157
+20 Dalarnas län,bensin,202103,241
+20 Dalarnas län,bensin,202104,128
+20 Dalarnas län,bensin,202105,153
+20 Dalarnas län,bensin,202106,166
+20 Dalarnas län,bensin,202107,126
+20 Dalarnas län,bensin,202108,169
+20 Dalarnas län,bensin,202109,127
+20 Dalarnas län,bensin,202110,110
+20 Dalarnas län,bensin,202111,96
+20 Dalarnas län,bensin,202112,92
+20 Dalarnas län,bensin,202201,101
+20 Dalarnas län,bensin,202202,109
+20 Dalarnas län,diesel,202003,172
+20 Dalarnas län,diesel,202004,142
+20 Dalarnas län,diesel,202005,97
+20 Dalarnas län,diesel,202006,174
+20 Dalarnas län,diesel,202007,162
+20 Dalarnas län,diesel,202008,157
+20 Dalarnas län,diesel,202009,158
+20 Dalarnas län,diesel,202010,163
+20 Dalarnas län,diesel,202011,132
+20 Dalarnas län,diesel,202012,188
+20 Dalarnas län,diesel,202101,109
+20 Dalarnas län,diesel,202102,118
+20 Dalarnas län,diesel,202103,232
+20 Dalarnas län,diesel,202104,95
+20 Dalarnas län,diesel,202105,96
+20 Dalarnas län,diesel,202106,143
+20 Dalarnas län,diesel,202107,91
+20 Dalarnas län,diesel,202108,89
+20 Dalarnas län,diesel,202109,61
+20 Dalarnas län,diesel,202110,94
+20 Dalarnas län,diesel,202111,95
+20 Dalarnas län,diesel,202112,55
+20 Dalarnas län,diesel,202201,57
+20 Dalarnas län,diesel,202202,73
+21 Gävleborgs län,bensin,202003,200
+21 Gävleborgs län,bensin,202004,148
+21 Gävleborgs län,bensin,202005,149
+21 Gävleborgs län,bensin,202006,177
+21 Gävleborgs län,bensin,202007,232
+21 Gävleborgs län,bensin,202008,188
+21 Gävleborgs län,bensin,202009,160
+21 Gävleborgs län,bensin,202010,200
+21 Gävleborgs län,bensin,202011,190
+21 Gävleborgs län,bensin,202012,213
+21 Gävleborgs län,bensin,202101,132
+21 Gävleborgs län,bensin,202102,168
+21 Gävleborgs län,bensin,202103,351
+21 Gävleborgs län,bensin,202104,151
+21 Gävleborgs län,bensin,202105,183
+21 Gävleborgs län,bensin,202106,183
+21 Gävleborgs län,bensin,202107,129
+21 Gävleborgs län,bensin,202108,122
+21 Gävleborgs län,bensin,202109,130
+21 Gävleborgs län,bensin,202110,152
+21 Gävleborgs län,bensin,202111,134
+21 Gävleborgs län,bensin,202112,110
+21 Gävleborgs län,bensin,202201,85
+21 Gävleborgs län,bensin,202202,97
+21 Gävleborgs län,diesel,202003,218
+21 Gävleborgs län,diesel,202004,144
+21 Gävleborgs län,diesel,202005,109
+21 Gävleborgs län,diesel,202006,181
+21 Gävleborgs län,diesel,202007,198
+21 Gävleborgs län,diesel,202008,170
+21 Gävleborgs län,diesel,202009,123
+21 Gävleborgs län,diesel,202010,103
+21 Gävleborgs län,diesel,202011,133
+21 Gävleborgs län,diesel,202012,159
+21 Gävleborgs län,diesel,202101,105
+21 Gävleborgs län,diesel,202102,141
+21 Gävleborgs län,diesel,202103,207
+21 Gävleborgs län,diesel,202104,77
+21 Gävleborgs län,diesel,202105,138
+21 Gävleborgs län,diesel,202106,206
+21 Gävleborgs län,diesel,202107,96
+21 Gävleborgs län,diesel,202108,111
+21 Gävleborgs län,diesel,202109,82
+21 Gävleborgs län,diesel,202110,88
+21 Gävleborgs län,diesel,202111,62
+21 Gävleborgs län,diesel,202112,115
+21 Gävleborgs län,diesel,202201,85
+21 Gävleborgs län,diesel,202202,86
+22 Västernorrlands län,bensin,202003,146
+22 Västernorrlands län,bensin,202004,110
+22 Västernorrlands län,bensin,202005,117
+22 Västernorrlands län,bensin,202006,137
+22 Västernorrlands län,bensin,202007,127
+22 Västernorrlands län,bensin,202008,137
+22 Västernorrlands län,bensin,202009,148
+22 Västernorrlands län,bensin,202010,134
+22 Västernorrlands län,bensin,202011,130
+22 Västernorrlands län,bensin,202012,120
+22 Västernorrlands län,bensin,202101,60
+22 Västernorrlands län,bensin,202102,97
+22 Västernorrlands län,bensin,202103,227
+22 Västernorrlands län,bensin,202104,90
+22 Västernorrlands län,bensin,202105,115
+22 Västernorrlands län,bensin,202106,123
+22 Västernorrlands län,bensin,202107,98
+22 Västernorrlands län,bensin,202108,99
+22 Västernorrlands län,bensin,202109,116
+22 Västernorrlands län,bensin,202110,87
+22 Västernorrlands län,bensin,202111,103
+22 Västernorrlands län,bensin,202112,88
+22 Västernorrlands län,bensin,202201,62
+22 Västernorrlands län,bensin,202202,72
+22 Västernorrlands län,diesel,202003,135
+22 Västernorrlands län,diesel,202004,133
+22 Västernorrlands län,diesel,202005,110
+22 Västernorrlands län,diesel,202006,148
+22 Västernorrlands län,diesel,202007,147
+22 Västernorrlands län,diesel,202008,161
+22 Västernorrlands län,diesel,202009,233
+22 Västernorrlands län,diesel,202010,143
+22 Västernorrlands län,diesel,202011,131
+22 Västernorrlands län,diesel,202012,138
+22 Västernorrlands län,diesel,202101,102
+22 Västernorrlands län,diesel,202102,154
+22 Västernorrlands län,diesel,202103,284
+22 Västernorrlands län,diesel,202104,60
+22 Västernorrlands län,diesel,202105,151
+22 Västernorrlands län,diesel,202106,171
+22 Västernorrlands län,diesel,202107,81
+22 Västernorrlands län,diesel,202108,81
+22 Västernorrlands län,diesel,202109,58
+22 Västernorrlands län,diesel,202110,58
+22 Västernorrlands län,diesel,202111,89
+22 Västernorrlands län,diesel,202112,88
+22 Västernorrlands län,diesel,202201,87
+22 Västernorrlands län,diesel,202202,77
+23 Jämtlands län,bensin,202003,41
+23 Jämtlands län,bensin,202004,32
+23 Jämtlands län,bensin,202005,37
+23 Jämtlands län,bensin,202006,45
+23 Jämtlands län,bensin,202007,51
+23 Jämtlands län,bensin,202008,56
+23 Jämtlands län,bensin,202009,50
+23 Jämtlands län,bensin,202010,53
+23 Jämtlands län,bensin,202011,36
+23 Jämtlands län,bensin,202012,73
+23 Jämtlands län,bensin,202101,37
+23 Jämtlands län,bensin,202102,52
+23 Jämtlands län,bensin,202103,91
+23 Jämtlands län,bensin,202104,33
+23 Jämtlands län,bensin,202105,34
+23 Jämtlands län,bensin,202106,47
+23 Jämtlands län,bensin,202107,43
+23 Jämtlands län,bensin,202108,29
+23 Jämtlands län,bensin,202109,26
+23 Jämtlands län,bensin,202110,36
+23 Jämtlands län,bensin,202111,82
+23 Jämtlands län,bensin,202112,45
+23 Jämtlands län,bensin,202201,28
+23 Jämtlands län,bensin,202202,18
+23 Jämtlands län,diesel,202003,54
+23 Jämtlands län,diesel,202004,57
+23 Jämtlands län,diesel,202005,45
+23 Jämtlands län,diesel,202006,51
+23 Jämtlands län,diesel,202007,66
+23 Jämtlands län,diesel,202008,76
+23 Jämtlands län,diesel,202009,95
+23 Jämtlands län,diesel,202010,83
+23 Jämtlands län,diesel,202011,67
+23 Jämtlands län,diesel,202012,111
+23 Jämtlands län,diesel,202101,58
+23 Jämtlands län,diesel,202102,55
+23 Jämtlands län,diesel,202103,172
+23 Jämtlands län,diesel,202104,21
+23 Jämtlands län,diesel,202105,54
+23 Jämtlands län,diesel,202106,78
+23 Jämtlands län,diesel,202107,51
+23 Jämtlands län,diesel,202108,44
+23 Jämtlands län,diesel,202109,21
+23 Jämtlands län,diesel,202110,38
+23 Jämtlands län,diesel,202111,99
+23 Jämtlands län,diesel,202112,156
+23 Jämtlands län,diesel,202201,28
+23 Jämtlands län,diesel,202202,47
+24 Västerbottens län,bensin,202003,137
+24 Västerbottens län,bensin,202004,117
+24 Västerbottens län,bensin,202005,105
+24 Västerbottens län,bensin,202006,151
+24 Västerbottens län,bensin,202007,157
+24 Västerbottens län,bensin,202008,157
+24 Västerbottens län,bensin,202009,204
+24 Västerbottens län,bensin,202010,147
+24 Västerbottens län,bensin,202011,143
+24 Västerbottens län,bensin,202012,148
+24 Västerbottens län,bensin,202101,91
+24 Västerbottens län,bensin,202102,98
+24 Västerbottens län,bensin,202103,180
+24 Västerbottens län,bensin,202104,91
+24 Västerbottens län,bensin,202105,106
+24 Västerbottens län,bensin,202106,146
+24 Västerbottens län,bensin,202107,80
+24 Västerbottens län,bensin,202108,92
+24 Västerbottens län,bensin,202109,105
+24 Västerbottens län,bensin,202110,58
+24 Västerbottens län,bensin,202111,74
+24 Västerbottens län,bensin,202112,69
+24 Västerbottens län,bensin,202201,72
+24 Västerbottens län,bensin,202202,65
+24 Västerbottens län,diesel,202003,118
+24 Västerbottens län,diesel,202004,78
+24 Västerbottens län,diesel,202005,78
+24 Västerbottens län,diesel,202006,99
+24 Västerbottens län,diesel,202007,98
+24 Västerbottens län,diesel,202008,120
+24 Västerbottens län,diesel,202009,101
+24 Västerbottens län,diesel,202010,104
+24 Västerbottens län,diesel,202011,77
+24 Västerbottens län,diesel,202012,116
+24 Västerbottens län,diesel,202101,77
+24 Västerbottens län,diesel,202102,105
+24 Västerbottens län,diesel,202103,183
+24 Västerbottens län,diesel,202104,55
+24 Västerbottens län,diesel,202105,93
+24 Västerbottens län,diesel,202106,134
+24 Västerbottens län,diesel,202107,74
+24 Västerbottens län,diesel,202108,91
+24 Västerbottens län,diesel,202109,52
+24 Västerbottens län,diesel,202110,65
+24 Västerbottens län,diesel,202111,54
+24 Västerbottens län,diesel,202112,66
+24 Västerbottens län,diesel,202201,57
+24 Västerbottens län,diesel,202202,69
+25 Norrbottens län,bensin,202003,78
+25 Norrbottens län,bensin,202004,98
+25 Norrbottens län,bensin,202005,76
+25 Norrbottens län,bensin,202006,91
+25 Norrbottens län,bensin,202007,99
+25 Norrbottens län,bensin,202008,96
+25 Norrbottens län,bensin,202009,95
+25 Norrbottens län,bensin,202010,94
+25 Norrbottens län,bensin,202011,99
+25 Norrbottens län,bensin,202012,106
+25 Norrbottens län,bensin,202101,58
+25 Norrbottens län,bensin,202102,86
+25 Norrbottens län,bensin,202103,164
+25 Norrbottens län,bensin,202104,45
+25 Norrbottens län,bensin,202105,57
+25 Norrbottens län,bensin,202106,71
+25 Norrbottens län,bensin,202107,51
+25 Norrbottens län,bensin,202108,38
+25 Norrbottens län,bensin,202109,70
+25 Norrbottens län,bensin,202110,59
+25 Norrbottens län,bensin,202111,52
+25 Norrbottens län,bensin,202112,40
+25 Norrbottens län,bensin,202201,56
+25 Norrbottens län,bensin,202202,50
+25 Norrbottens län,diesel,202003,84
+25 Norrbottens län,diesel,202004,70
+25 Norrbottens län,diesel,202005,64
+25 Norrbottens län,diesel,202006,102
+25 Norrbottens län,diesel,202007,94
+25 Norrbottens län,diesel,202008,105
+25 Norrbottens län,diesel,202009,114
+25 Norrbottens län,diesel,202010,120
+25 Norrbottens län,diesel,202011,94
+25 Norrbottens län,diesel,202012,171
+25 Norrbottens län,diesel,202101,89
+25 Norrbottens län,diesel,202102,132
+25 Norrbottens län,diesel,202103,205
+25 Norrbottens län,diesel,202104,48
+25 Norrbottens län,diesel,202105,92
+25 Norrbottens län,diesel,202106,172
+25 Norrbottens län,diesel,202107,92
+25 Norrbottens län,diesel,202108,91
+25 Norrbottens län,diesel,202109,64
+25 Norrbottens län,diesel,202110,49
+25 Norrbottens län,diesel,202111,74
+25 Norrbottens län,diesel,202112,61
+25 Norrbottens län,diesel,202201,77
+25 Norrbottens län,diesel,202202,76
